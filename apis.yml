@@ -1,8 +1,8 @@
 aid: pulse-us-income-api
 name: Pulse US Income API
 description: >-
-  It was designed to solve the problem of calculatingthe future income
-  trajectory of applicants in real-time. 
+  It was designed to solve the problem of calculatingthe future income trajectory
+  of applicants in real-time.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,8 +18,8 @@ apis:
   - aid: pulse-us-income-api:pulse-us-income-api
     name: Pulse US Income API
     description: >-
-      It was designed to solve the problem of calculatingthe future income
-      trajectory of applicants in real-time. 
+      It was designed to solve the problem of calculatingthe future income trajectory
+      of applicants in real-time.
     humanURL: https://pulseapi.webflow.io/
     tags:
       - API
