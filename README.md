@@ -1,34 +1,34 @@
 # Pulse US Income API (pulse-us-income-api)
-It was designed to solve the problem of calculatingthe future income trajectory of applicants in real-time. 
+It was designed to solve the problem of calculating the future income trajectory of applicants in real-time.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/pulse-us-income-api/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - API
+ - Income, Underwriting, Financial, Applicants
 
 ## Timestamps
 
-- **Created:** 2025-02-24 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-02-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Pulse US Income API
-It was designed to solve the problem of calculatingthe future income trajectory of applicants in real-time. 
+It was designed to solve the problem of calculating the future income trajectory of applicants in real-time.
 
 **Human URL:** [https://pulseapi.webflow.io/](https://pulseapi.webflow.io/)
 
 
 #### Tags:
 
- - API
+ - Income, Underwriting, Financial
 
 #### Properties
 
