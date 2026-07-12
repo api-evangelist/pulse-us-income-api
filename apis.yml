@@ -34,3 +34,6 @@ apis:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+common:
+- type: DomainSecurity
+  url: security/pulse-us-income-api-domain-security.yml
