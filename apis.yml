@@ -28,7 +28,7 @@ created: '2025-02-24'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pulse-us-income-api/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: pulse-us-income-api:pulse-us-income-api
     name: Pulse US Income API
