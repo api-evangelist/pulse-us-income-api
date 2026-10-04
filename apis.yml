@@ -33,6 +33,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pulse-us-i
 tags:
   - Income
   - Underwriting
+  - Finance
+  - Applicants
+tags_raw:
+  - Income
+  - Underwriting
   - Financial
   - Applicants
 created: '2025-02-24'
@@ -48,6 +53,10 @@ apis:
       of applicants in real-time.
     humanURL: https://pulseapi.webflow.io/
     tags:
+      - Income
+      - Underwriting
+      - Finance
+    tags_raw:
       - Income
       - Underwriting
       - Financial
