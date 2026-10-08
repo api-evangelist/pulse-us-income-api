@@ -67,5 +67,11 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+- type: Plans
+  url: plans/pulse-us-income-api-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/pulse-us-income-api-rate-limits.yml
+- type: FinOps
+  url: finops/pulse-us-income-api-finops.yml
 - type: DomainSecurity
   url: security/pulse-us-income-api-domain-security.yml
